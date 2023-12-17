@@ -1,5 +1,11 @@
 # Prefrontal Cortex
 
+Traditional psychological diagnoses are based around clusters of symptoms, rather than a wholistic approach that looks to the systemic causes of mental dis-ease.
+
+Neither do they look to the ways that disruptions in physical structures of the brain bring about those symptoms.
+
+My hypothesis is that mental health primarily revolves around the relationship between our prefrontal-cortex and amygdala. Regardless of diagnosis, its likely this neural circuit that is disrupted, which may preclude our ability to improve regardless of theraputic treatment modality.
+
 ## Overview
 The prefrontal cortex (PFC) is a complex brain region with various subregions, each associated with different functions and behaviors. While the boundaries between these subregions are not always sharply defined, there are several well-known parts of the prefrontal cortex, each contributing to specific aspects of cognition, emotion, and behavior. Here are some key subregions of the prefrontal cortex:
 
