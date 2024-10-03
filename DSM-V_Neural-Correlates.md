@@ -2,7 +2,9 @@
 
 * https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/
 
-This summary provides a comprehensive overview of the key brain regions and neurotransmitter systems associated with major categories of DSM-5 diagnoses. This is meant to be used as a quick reference for further study, be sure to read the [note](#note) for important disclaimers.
+The key brain regions and neurotransmitter systems associated with major categories of DSM-5 diagnoses. This is meant to be used as a quick reference for further study, be sure to read the [note](#note) for important disclaimers.
+
+* [Panic Disorder: Neural Correlates, Fear vs Disgust.. Brainstorm](https://www.perplexity.ai/page/going-deeper-panic-disorder-tr-chxOLIWfTHWMnmRxeqTp6A)
 
 ## Brain Regions and Neurotransmitters
 
