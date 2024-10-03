@@ -1,7 +1,5 @@
 # Neural Correlates of the major DSM V Diagnoses
 
-* https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/
-
 The key brain regions and neurotransmitter systems associated with major categories of DSM-5 diagnoses. This is meant to be used as a quick reference for further study, be sure to read the [note](#note) for important disclaimers.
 
 * [Panic Disorder: Neural Correlates, Fear vs Disgust.. Brainstorm](https://www.perplexity.ai/page/going-deeper-panic-disorder-tr-chxOLIWfTHWMnmRxeqTp6A)
@@ -127,3 +125,7 @@ The key brain regions and neurotransmitter systems associated with major categor
 6. Specificity: Some of the neurotransmitter changes listed (e.g., "altered signaling") are quite general and could be more specific in some cases.
 
 7. Citation needed: For use in a professional or academic context, this information would need to be supported by appropriate citations to primary research or review articles.
+
+## Resources
+
+* [ChatGPT: Scholar AI](https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/)
